@@ -1,20 +1,19 @@
-# CS-230: Gaming Room App
+# CS-300: Advising App
 
 ## 📖 Project Overview
-Designed a web-based game system for “Draw It or Lose It,” adapted from the classic TV show *Win, Lose or Draw*. The client requested a scalable system to expand beyond Android into a cross-platform web application.
+Built an advising tool for the Computer Science department at ABCU. The program loads a list of courses and their prerequisites from a file, then allows users to view the entire catalog or look up the prerequisites of a specific course.
 
 ## 🛠 What I Did
-- Applied **Singleton pattern** to ensure a single instance of the game service.  
-- Used **Iterator pattern** to enforce unique team, game, and player names.  
-- Produced detailed documentation including UML diagrams and client requirements.  
-- Prioritized user needs with platform recommendations, performance optimization, and security features.  
+- Implemented core functionality using **Binary Search Trees (BSTs)** for fast prerequisite lookups.
+- Compared efficiency across different data structures (vectors, hash maps, BST).
+- Wrote pseudocode before development to plan logic and improve implementation flow.
 
 ## 💡 Key Skills Demonstrated
-- Software Engineering & Documentation  
-- Design Patterns (Singleton, Iterator)  
-- UML Diagrams & Client Requirements Translation  
-- User-Centered Design & Security Awareness  
+- Data Structures & Algorithms (BST, Hash Maps, Vectors)  
+- Efficient searching and scalability  
+- Pseudocode and modular programming  
+- Code readability and maintainability  
 
 ## 📂 Files
-- `src/` – Core system design and patterns implementation.  
-- `docs/` – UML diagrams and design documentation.
+- `src/` – Source code implementing prerequisite search functionality.  
+- `docs/` – Pseudocode and supporting design notes.
