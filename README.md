@@ -30,9 +30,10 @@ Performed a **software vulnerability assessment** and delivered a secure softwar
 Designed a web-based system for **The Gaming Room**, refactoring an Android game into a scalable, cross-platform architecture.  
 - **Skills:** Software design, UML, Singleton & Iterator patterns, Maven, documentation  
 - 📂 Files:  
-  - [Software Design Document (DOCX)](./CS-230-GamingRoom/CS230_Software%20Design%20Document.docx)  
-  - [Source Code (ZIP)](./CS-230-GamingRoom/CS230_SARAHTOMLINSON_GamePlayerManagementApplication.zip)  
+  - [Software Design Document (PDF)](./CS-230-GamingRoom/CS230_Software%20Design%20Document.docx)  
+  - [Source Code (Folder)](./CS-230-GamingRoom/src)  
   - [UML Preview](./CS-230-GamingRoom/UML_Preview.png)  
+
 
 ---
 
