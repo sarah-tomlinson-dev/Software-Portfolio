@@ -25,7 +25,7 @@ The goal was to design an efficient advising tool by comparing multiple data str
 
 ## 📂 Repo Contents
 
-- [data/CS300_Advising_Input.csv](./data/CS-300_Advising_Input.csv) — Input dataset of courses and prerequisites  
+- [data/CS-300-Advising_Input.csv](./data/CS-300-Advising_Input.csv) — Input dataset of courses and prerequisites  
 - [src/CS-300-AdvisingApp.cpp](./src/CS-300-AdvisingApp.cpp) — Final C++ implementation of the advising system  
 - [docs/CS-300-Pseudocode.pdf](./docs/CS-300-Pseudocode.pdf) — Pseudocode design and runtime analysis  
 
