@@ -1,23 +1,35 @@
-# Software Portfolio – Sarah Tomlinson  
+# 💻 Software Portfolio – Sarah Tomlinson
 
-This repository showcases selected projects from my coursework and certifications that demonstrate my skills in software development, data analysis, and secure coding.  
+Welcome! This repository showcases selected projects from my Computer Science coursework and certifications. Each project demonstrates different aspects of software development, data structures, and secure coding practices.  
 
-## Featured Projects  
+I have a **B.S. in Mathematics**, I’m completing a **B.S. in Computer Science**, and I recently earned a certification in **Data Science with Python**. My career focus is on **data analytics, data science, and software development**.  
 
-### 1. CS-300: Advising App  
-- **Focus:** Data structures & algorithms  
-- **Highlights:** Implemented Binary Search Tree for efficient prerequisite lookups.  
-- **Skills:** Data structures, algorithm design, scalability.  
-- [View Project](./CS-300-AdvisingApp)  
+---
 
-### 2. CS-230: Gaming Room App  
-- **Focus:** Software engineering & design patterns  
-- **Highlights:** Used Singleton & Iterator patterns to build a cross-platform game system.  
-- **Skills:** Design patterns, client requirements, user-focused development.  
-- [View Project](./CS-230-GamingRoom)  
+## 📂 Featured Projects
 
-### 3. CS-305: Artemis Financial Security  
-- **Focus:** Secure coding & vulnerability assessment  
-- **Highlights:** Added SHA-256 encryption, HTTPS with self-signed certificates, and dependency checks.  
-- **Skills:** Secure coding, API usage, software refactoring.  
-- [View Project](./CS-305-ArtemisFinancial)   
+### [CS-300: Advising App](./CS-300-AdvisingApp)
+A course advising system that reads course prerequisites and allows efficient lookups using a **Binary Search Tree**.  
+- **Skills:** Data Structures & Algorithms, Scalability, Pseudocode → Implementation  
+- **Tech:** C++ (or Java, if that’s what you used)  
+
+---
+
+### [CS-230: Gaming Room App](./CS-230-GamingRoom)
+Cross-platform web game system for *Draw It or Lose It*, adapted from a classic TV game show.  
+- **Skills:** Software Engineering, Design Patterns (Singleton, Iterator), UML, Client Requirements  
+- **Focus:** Translating user needs into secure, usable design  
+
+---
+
+### [CS-305: Artemis Financial Security](./CS-305-ArtemisFinancial)
+Modernizing a financial application with a focus on **security and encryption**. Includes SHA-256, HTTPS, and vulnerability assessment.  
+- **Skills:** Secure Coding, Encryption, Dependency Management (Maven), Vulnerability Mitigation  
+- **Focus:** Protecting sensitive client data  
+
+---
+
+## 🔧 Skills Highlighted Across Projects
+- **Programming & Data:** Python, Java, SQL, Data Structures, Algorithms  
+- **Software Development:** Agile, TDD, Design Patterns, UML  
+- **Security & Testing:** SHA-256, HTTPS, Maven, JUnit, Vulne
