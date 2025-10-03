@@ -5,11 +5,11 @@ This project centered on modernizing the systems at **Artemis Financial**, a fin
 
 ---
 
-## 📂 Contents
-- **ArtemisFinancial_VulnerabilityAssessmentReport.docx**  
+## 📑 Files
+- [ArtemisFinancial_VulnerabilityAssessmentReport.pdf](ArtemisFinancial_VulnerabilityAssessmentReport.pdf)  
   Initial vulnerability assessment identifying risks such as outdated dependencies, weak input validation, and unencrypted communication.  
 
-- **ArtemisFinancial_SecureSoftwareReport.docx**  
+- [ArtemisFinancial_SecureSoftwareReport.pdf](ArtemisFinancial_SecureSoftwareReport.pdf)  
   Final secure software development report, including the implementation of stronger encryption (SHA-256), HTTPS certificate setup, secure error handling, and dependency management practices.  
 
 ---
