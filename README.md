@@ -33,3 +33,9 @@ Modernizing a financial application with a focus on **security and encryption**.
 - **Programming & Data:** Python, Java, SQL, Data Structures, Algorithms  
 - **Software Development:** Agile, TDD, Design Patterns, UML  
 - **Security & Testing:** SHA-256, HTTPS, Maven, JUnit, Vulne
+
+---
+
+## 📫 Contact
+- **LinkedIn:** [linkedin.com/in/sarah-tomlinson-dev](https://www.linkedin.com/in/sarah-tomlinson-dev/)  
+- **GitHub:** [github.com/sarah-tomlinson-dev](https://github.com/sarah-tomlinson-dev)  
