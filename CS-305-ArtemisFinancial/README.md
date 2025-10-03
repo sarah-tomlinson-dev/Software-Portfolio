@@ -1,22 +1,27 @@
-# CS-305: Artemis Financial Security Project
+# 🔐 CS-305: Artemis Financial – Secure Software Development
 
 ## 📖 Project Overview
-Worked with Artemis Financial, a financial consulting company, to modernize operations and protect sensitive client data. The project focused on identifying vulnerabilities, implementing encryption, and securing communications.
+This project centered on modernizing the systems at **Artemis Financial**, a financial consulting company, while ensuring that sensitive client data and financial information remained secure. The work focused on analyzing vulnerabilities, proposing mitigations, and documenting secure coding practices.
 
-## 🛠 What I Did
-- Conducted a **vulnerability assessment** and identified false positives.  
-- Refactored code to implement **SHA-256 encryption** for secure data handling.  
-- Replaced HTTP with **HTTPS** using a self-signed certificate.  
-- Delivered a concise report with vulnerabilities found and mitigation strategies.  
-- Used **Maven dependency checker** to ensure up-to-date and secure builds.  
+---
 
-## 💡 Key Skills Demonstrated
-- Secure Coding Practices  
-- Encryption (SHA-256) & HTTPS Implementation  
-- Vulnerability Assessment & Mitigation  
-- Dependency Management with Maven  
-- Technical Documentation & Reporting  
+## 📂 Contents
+- **ArtemisFinancial_VulnerabilityAssessmentReport.docx**  
+  Initial vulnerability assessment identifying risks such as outdated dependencies, weak input validation, and unencrypted communication.  
 
-## 📂 Files
-- `src/` – Refactored secure code implementations.  
-- `docs/` – Vulnerability reports and supporting documentation.
+- **ArtemisFinancial_SecureSoftwareReport.docx**  
+  Final secure software development report, including the implementation of stronger encryption (SHA-256), HTTPS certificate setup, secure error handling, and dependency management practices.  
+
+---
+
+## 🛠 Skills Demonstrated
+- Software vulnerability assessment & risk reporting  
+- Secure design principles (input validation, error handling, dependency management)  
+- Encryption & cryptography (SHA-256, checksum verification)  
+- HTTPS / SSL certificate setup and secure communication  
+- Writing professional security documentation  
+
+---
+
+## 💡 Key Takeaway
+Even without direct source code, this project highlights my ability to **identify, analyze, and mitigate software vulnerabilities** while producing clear, professional documentation that could guide developers toward secure implementation.
