@@ -1,20 +1,22 @@
-# CS-230: Gaming Room App
+# CS-305: Artemis Financial Security Project
 
 ## 📖 Project Overview
-Designed a web-based game system for “Draw It or Lose It,” adapted from the classic TV show *Win, Lose or Draw*. The client requested a scalable system to expand beyond Android into a cross-platform web application.
+Worked with Artemis Financial, a financial consulting company, to modernize operations and protect sensitive client data. The project focused on identifying vulnerabilities, implementing encryption, and securing communications.
 
 ## 🛠 What I Did
-- Applied **Singleton pattern** to ensure a single instance of the game service.  
-- Used **Iterator pattern** to enforce unique team, game, and player names.  
-- Produced detailed documentation including UML diagrams and client requirements.  
-- Prioritized user needs with platform recommendations, performance optimization, and security features.  
+- Conducted a **vulnerability assessment** and identified false positives.  
+- Refactored code to implement **SHA-256 encryption** for secure data handling.  
+- Replaced HTTP with **HTTPS** using a self-signed certificate.  
+- Delivered a concise report with vulnerabilities found and mitigation strategies.  
+- Used **Maven dependency checker** to ensure up-to-date and secure builds.  
 
 ## 💡 Key Skills Demonstrated
-- Software Engineering & Documentation  
-- Design Patterns (Singleton, Iterator)  
-- UML Diagrams & Client Requirements Translation  
-- User-Centered Design & Security Awareness  
+- Secure Coding Practices  
+- Encryption (SHA-256) & HTTPS Implementation  
+- Vulnerability Assessment & Mitigation  
+- Dependency Management with Maven  
+- Technical Documentation & Reporting  
 
 ## 📂 Files
-- `src/` – Core system design and patterns implementation.  
-- `docs/` – UML diagrams and design documentation.
+- `src/` – Refactored secure code implementations.  
+- `docs/` – Vulnerability reports and supporting documentation.
