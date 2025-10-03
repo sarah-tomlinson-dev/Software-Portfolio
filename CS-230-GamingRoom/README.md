@@ -30,7 +30,7 @@ This project was developed for *The Gaming Room*, a client that wanted to expand
 
 ## 📂 Repo Contents
 
-- [docs/CS230_Software_Design_Document.docx](./docs/CS230_Software_Design_Document.docx) — Full software design document for The Gaming Room project  
+- [docs/CS230_Software_Design_Document.pdf](./docs/CS230_Software_Design_Document.pdf) — Full software design document for The Gaming Room project  
 - [docs/uml.png](./docs/uml.png) — UML diagram of the system architecture  
 - [src/](./src) — Source code for the Gaming Room web application  
   - [auth/](./src/auth) — Authentication and authorization logic  
