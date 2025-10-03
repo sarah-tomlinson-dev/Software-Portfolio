@@ -11,9 +11,9 @@ Each project demonstrates a mix of **programming, software design, data structur
 Created an advising application for **ABCU**, using data structures to store and retrieve course prerequisites.  
 - **Skills:** C++, pseudocode, Binary Search Tree implementation, data structures  
 - 📂 Files:  
-  - [Final Project – Advising Program (C++)](./CS-300-AdvisingApp/SarahT_FinalProject.cpp)  
-  - [Project One – Pseudocode](./CS-300-AdvisingApp/SarahT_ProjectOne.docx)  
-  - [Course Data (CSV)](./CS-300-AdvisingApp/CS%20300%20ABCU_Advising_Program_Input.csv)  
+  - [Final Project – Advising Program (C++)](./CS-300-AdvisingApp/src/CS-300-AdvisingApp.cpp)  
+  - [Project One – Pseudocode](./CS-300-AdvisingApp/docs/CS-300-Pseudocode.pdf)  
+  - [Course Data (CSV)](./CS-300-AdvisingApp/data/CS-300-Advising_Input.csv)  
 
 ---
 
