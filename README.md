@@ -30,9 +30,9 @@ Performed a **software vulnerability assessment** and delivered a secure softwar
 Designed a web-based system for **The Gaming Room**, refactoring an Android game into a scalable, cross-platform architecture.  
 - **Skills:** Software design, UML, Singleton & Iterator patterns, Maven, documentation  
 - 📂 Files:  
-  - [Software Design Document (PDF)](./CS-230-GamingRoom/CS230_Software%20Design%20Document.docx)  
+  - [Software Design Document (PDF)](./CS-230-GamingRoom/docs/CS230_Software_Design_Document.pdf)  
   - [Source Code (Folder)](./CS-230-GamingRoom/src)  
-  - [UML Preview](./CS-230-GamingRoom/UML_Preview.png)  
+  - [UML Preview](./CS-230-GamingRoom/docs/uml.png)  
 
 
 ---
@@ -41,7 +41,7 @@ Designed a web-based system for **The Gaming Room**, refactoring an Android game
 Developed a C++ program simulating an **inventory tracking system** with product data input/output and frequency analysis.  
 - **Skills:** C++, file I/O, modular design, documentation  
 - 📂 Files:  
-  - [Project Documentation (DOCX)](./CS-210-InventorySystem/Project%203%20Documentation.docx)  
+  - [Project Documentation (PDF)](./CS-210-InventorySystem/docs/CS-210-Project_Documentation.pdf)  
 
 ---
 
@@ -49,8 +49,8 @@ Developed a C++ program simulating an **inventory tracking system** with product
 Team Lead for a 3D Unreal Engine game simulating a **virus-fighting scenario**. Managed Agile workflows, coached teammates, and produced the cinematic intro video. The project received a **perfect score** from the professor.  
 - **Skills:** Team leadership, Unreal Engine (Blueprints), Agile project management (Monday.com), After Effects & Premiere Pro  
 - 📂 Files:  
-  - [Game Scenario (PDF)](./GAM-305-VirusHunter/GAM305%20VirusHunterScenario.pdf)  
-  - [Team Postmortem Report (DOCX)](./GAM-305-VirusHunter/Lucky3Studios%20Postmortem.docx)  
+  - [Game Scenario (PDF)](./GAM-305-VirusHunter/docs/GAM-305-ProjectScenario.pdf)  
+  - [Team Postmortem Report (PDF)](./GAM-305-VirusHunter/docs/GAM-305-Postmortem.pdf)  
   - 🎥 [Intro Video on YouTube](https://youtu.be/gFTnI-aK9EA)  
 
 ---
