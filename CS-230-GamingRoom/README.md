@@ -24,6 +24,10 @@ This project was developed for *The Gaming Room*, a client that wanted to expand
 
 ---
 
+![UML Diagram](docs/uml.png)
+
+---
+
 ## 🚀 How to Run
 1. Build the project with Maven:
    ```bash
