@@ -1,20 +1,33 @@
-# CS-230: Gaming Room App
+# 🎮 CS-230: Gaming Room App
 
 ## 📖 Project Overview
-Designed a web-based game system for “Draw It or Lose It,” adapted from the classic TV show *Win, Lose or Draw*. The client requested a scalable system to expand beyond Android into a cross-platform web application.
+This project was developed for *The Gaming Room*, a client that wanted to expand their Android-based game **Draw It or Lose It** into a scalable, cross-platform web application. The goal was to design a system that could handle unique game/team/player instances, maintain performance, and prioritize user experience and security.
+
+---
 
 ## 🛠 What I Did
-- Applied **Singleton pattern** to ensure a single instance of the game service.  
-- Used **Iterator pattern** to enforce unique team, game, and player names.  
-- Produced detailed documentation including UML diagrams and client requirements.  
-- Prioritized user needs with platform recommendations, performance optimization, and security features.  
+- Designed and documented the system architecture, including UML diagrams and requirements analysis.  
+- Implemented core features with **design patterns**:  
+  - **Singleton** – ensures only one instance of the game service exists in memory.  
+  - **Iterator** – enforces uniqueness of game, team, and player names.  
+- Created a secure, efficient system structure that emphasized user-friendly error handling and constraints.  
+- Recommended **Windows as the primary platform** for user familiarity and performance, while ensuring cross-platform capability through a web-based architecture.  
+
+---
 
 ## 💡 Key Skills Demonstrated
 - Software Engineering & Documentation  
 - Design Patterns (Singleton, Iterator)  
-- UML Diagrams & Client Requirements Translation  
-- User-Centered Design & Security Awareness  
+- UML Diagrams & Requirements Analysis  
+- User-Centered and Secure Design Principles  
+- Maven Project Structure & Config Management  
 
-## 📂 Files
-- `src/` – Core system design and patterns implementation.  
-- `docs/` – UML diagrams and design documentation.
+---
+
+## 🚀 How to Run
+1. Build the project with Maven:
+   ```bash
+   mvn clean package
+java -jar target/*-SNAPSHOT.jar server config.yml
+
+curl http://localhost:8081/healthcheck
