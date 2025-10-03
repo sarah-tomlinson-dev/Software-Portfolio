@@ -28,6 +28,23 @@ This project was developed for *The Gaming Room*, a client that wanted to expand
 
 ---
 
+## 📂 Repo Contents
+
+- [docs/CS230_Software_Design_Document.docx](./docs/CS230_Software_Design_Document.docx) — Full software design document for The Gaming Room project  
+- [docs/uml.png](./docs/uml.png) — UML diagram of the system architecture  
+- [src/](./src) — Source code for the Gaming Room web application  
+  - [auth/](./src/auth) — Authentication and authorization logic  
+  - [controller/](./src/controller) — REST controllers for game management  
+  - [dao/](./src/dao) — Data access objects for persistence and game state  
+  - [healthcheck/](./src/healthcheck) — System health check endpoints  
+  - [representations/](./src/representations) — Data models and representations  
+  - [GameAuthApplication.java](./src/GameAuthApplication.java) — Main entry point for the application  
+  - [GameAuthConfiguration.java](./src/GameAuthConfiguration.java) — Configuration setup  
+- [config.yml](./config.yml) — Application configuration file  
+- [pom.xml](./pom.xml) — Maven project configuration  
+
+---
+
 ## 🚀 How to Run
 1. Build the project with Maven:
    ```bash
