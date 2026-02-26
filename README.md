@@ -45,6 +45,17 @@ Developed a C++ program simulating an **inventory tracking system** with product
 
 ---
 
+### 🔹 [InvenStory: Android Inventory App](./CS-360-InventoryApp%20(Android%20Studio))
+Developed a native Android **inventory management application** with user authentication, local database persistence, and optional SMS low-stock alerts.  
+- **Skills:** Java, Android Studio, SQLite, CRUD operations, runtime permission handling, mobile UI design  
+- 📂 Files:  
+  - [Source Code (App Module)](./CS-360-InventoryApp%(Android%Studio)/App%Module/src/main/java/com/example/sarahtomlinson_inventoryfinalproject)
+  - [Layouts (XML)](./CS-360-InventoryApp%20(Android%20Studio)/App%Module/src/main/res/layout/)  
+  - [Android Manifest](./CS-360-InventoryApp%20(Android%20Studio)/App%Module/src/main/AndroidManifest.xml)
+  - [Project README](./CS-360-InventoryApp%20(Android%20Studio)/README.md)
+
+---
+
 ### 🔹 [GAM-305: Virus Hunter (Unreal Game Project)](./GAM-305-VirusHunter)  
 Team Lead for a 3D Unreal Engine game simulating a **virus-fighting scenario**. Managed Agile workflows, coached teammates, and produced the cinematic intro video. The project received a **perfect score** from the professor.  
 - **Skills:** Team leadership, Unreal Engine (Blueprints), Agile project management (Monday.com), After Effects & Premiere Pro  
