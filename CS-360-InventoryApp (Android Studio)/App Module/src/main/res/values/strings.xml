@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">InventStory</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="log_in">Log In</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="count">Count</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="change_count">Count (Click to Change)</string>
+    <string name="empty_list">No items added yet.</string>
+    <string name="name_text">Item Name</string>
+    <string name="app_tagline">Get the story behind your inventory!</string>
+
+
+
+    <string name="sms_permission_text">SMS App Permissions Requested</string>
+    <string name="sms_enable_msg">SMS feature required to notify user when inventory is empty. Enable or disable anytime. Allow permission to use this feature.</string>
+    <string name="enable_sms_button">Enable SMS</string>
+    <string name="disable_sms_button">Disable SMS</string>
+    <string name="greeting">Welcome back, %s!</string>
+    <string name="phone">Phone Number</string>
+</resources>
