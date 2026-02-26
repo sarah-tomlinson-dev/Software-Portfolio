@@ -49,10 +49,10 @@ Developed a C++ program simulating an **inventory tracking system** with product
 Developed a native Android **inventory management application** with user authentication, local database persistence, and optional SMS low-stock alerts.  
 - **Skills:** Java, Android Studio, SQLite, CRUD operations, runtime permission handling, mobile UI design  
 - 📂 Files:  
-  - [Source Code (App Module)](./CS-360-InventoryApp%(Android%Studio)/App%Module/src/main/java/com/example/sarahtomlinson_inventoryfinalproject)
-  - [Layouts (XML)](./CS-360-InventoryApp%20(Android%20Studio)/App%Module/src/main/res/layout/)  
-  - [Android Manifest](./CS-360-InventoryApp%20(Android%20Studio)/App%Module/src/main/AndroidManifest.xml)
-  - [Project README](./CS-360-InventoryApp%20(Android%20Studio)/README.md)
+  - [Source Code (App Module)](./CS-360-InventoryApp%20(Android%20Studio)/App%20Module/src/main/java/com/example/sarahtomlinson_inventoryfinalproject)
+  - [Layouts (XML)](./CS-360-InventoryApp%20(Android%20Studio)/App%20Module/src/main/res/layout)  
+  - [Android Manifest](./CS-360-InventoryApp%20(Android%20Studio)/App%20Module/src/main/AndroidManifest.xml)
+  - [Project README](./CS-360-InventoryApp%20(Android%20Studio)/README.md) 
 
 ---
 
